@@ -15,10 +15,7 @@
 #include <cmath>
 #include <stdio.h>
 #include <math.h>
-#include </home/rl58/include/armadillo_bits/config.hpp>
-#include </home/rl58/include/armadillo>
-//#include </opt/apps/software/MPI/intel/2016.3.210-GCC-5.4.0/OpenMPI/1.10.3/Armadillo/7.600.1/include/armadillo>
-// </usr/local/include/armadillo>
+#include </usr/local/include/armadillo>
 
 using namespace std;
 using namespace arma;
